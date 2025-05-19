@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hatice Nur Icen Dinc</title>
-    <link>https://github.com/haticenuricendinc/haticenuricendinc.github.io.git/tags/</link>
+    <link>https://haticenuricendinc.github.io/tags/</link>
     <description>Recent content in Tags on Hatice Nur Icen Dinc</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://github.com/haticenuricendinc/haticenuricendinc.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haticenuricendinc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
